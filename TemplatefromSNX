@@ -1,0 +1,57 @@
+This template has been taken mostly from SNXGrantsDAO, specifically from the aplication page 
+
+Title of proposal:
+Please add a title for your proposal. 
+
+Description:
+Add a short summary of what you are proposing to do to contribute to the Compound ecosystem. Proposal doesnt have to be direclty related to Compound, at least as it in any way helpful towards the defi/crytpo space, that will bring value down the road to compound.finance
+
+Motivation:
+I guess this could be a shoprt essay or a couple sentences, keep it intresting and short.
+
+Additional information:
+Here you can add further relevant information for your proposal, including technical specs or functionality.
+
+Previous work and Contact info:
+Please add links to previous work or relevant profile pages.
+Who is going to be working on the project? 
+Github, LinkedIn, anything you deem relavant.
+
+Compensation Type:
+Decide how you want to be paid in COMP, waether up frount, after a proposal, or periodically (With Goals)
+
+Compensation Schedule:
+The Most sucessful way to win a grant is to be goal oriented with clear compensation points.
+
+Example of Schedule:
+Create a scedule with a timeline of development.
+i.e.
+
+Step Number: #1
+
+What it is: Spec Research (with written report) 
+Define it: Will research specs that new contract needs
+Objective Goals: Will write out outline of contract, create template for JS and web 3 program
+Timeline :1 Month
+Labour: Me and my freind john
+Compensation: 2 Comp 
+Link to Project: github.com/stonks
+
+(Later: edit and put snapshot vote)
+(When you are done with this step, create a new snapshot vote with links to show achivement)
+
+Step Number #2
+What it is: Hardhat Testing
+Define it: Will do harthat tests and outline reports
+Objective Goals: Will prove i did this test by showing cool beans
+Timeline :1 Month
+Labour: Me and my freind smith
+Compensation: 3 Comp 
+Link to Project: github.com/megastonks
+
+Step Number: ect.
+(Later: edit and put snapshot vote)
+(When you are done with this step, create a new snapshot vote with links to show achivement)
+
+Ethereum Address:
+Please add an eligible Ethereum wallet address you'd like the funds sent to.
